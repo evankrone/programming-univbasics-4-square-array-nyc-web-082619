@@ -8,7 +8,7 @@ def square_array(array)
   newarr.push(array[counter] ** 2)
   counter += 1
  end
- puts newarr
+ p newarr
 end
  
 
